@@ -20,11 +20,11 @@ MonoBehaviour:
     overrideState: 0
     value: 1
   intensity:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 2.19
   color:
-    overrideState: 0
-    value: {r: 0, g: 0, b: 0, a: 1}
+    overrideState: 1
+    value: {r: 0.28773582, g: 1, b: 0.63065463, a: 1}
   ambientOnly:
     overrideState: 0
     value: 1
@@ -38,8 +38,8 @@ MonoBehaviour:
     overrideState: 0
     value: -12
   thicknessModifier:
-    overrideState: 0
-    value: 1
+    overrideState: 1
+    value: 10
   directLightingStrength:
     overrideState: 0
     value: 0
